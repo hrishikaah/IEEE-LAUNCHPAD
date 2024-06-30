@@ -3,6 +3,7 @@
 ### About Me
 
 > Btech Graduate in Computer Science and Engineering
+> Passionate and dedicated entry-level Software Development with a solid foundation in programming. Excited to contribute my skills in a collaborative team and continuously learn in a dynamic tech environment.
 
 
 ## Portfolio Highlights
@@ -11,44 +12,27 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **SMART DOCTOR**  | The project aims to build a machine learning model capable of analyzing skin images and detect early signs of skin cancer that might be missed by visual inspection alone.                                     | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **CLASS MONITORING SYSTEM**  | DThis integrated system enhances class monitoring efficiency and facilitates attendance tracking through a centralized web platform while incorporating IoT for intelligent control of electronic applications.                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Ive led teams in developing software projects. I take initiative in identifying and solving problems proactively. 
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
+- Through my own projects and contributions, I aim to set a positive example of innovation and ethical practice.
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
-
+- Continuously upgrade my technical skills and Seek internships or entry-level positions at startups in Kerala to gain practical experience and understand the local startup culture and challenges.
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Encouraging startups that focus on sustainability, healthcare, education, and social impact can differentiate Kerala's ecosystem and attract global attention and investment.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- I haven't developed software tools that are widely used by a broad user base beyond contributors. My focus has primarily been on contributing to open-source projects.
 
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
